@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RV Event Selector//Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RV Vendor Prospects (Selected)
+BEGIN:VEVENT
+UID:rv-E460@rv-vendor-planner.local
+DTSTAMP:20261007T201432Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260917
+SUMMARY:West Yellowstone Rally
+LOCATION:210 S. Electric Street\, West Yellowstone\, MT
+DESCRIPTION:Type: Club rally\nVendor fee: Vendor fee not published\; reque
+ st organizer quote.\nAttendance: Not published\nVendor status: Outside-ven
+ dor acceptance and selling permission require confirmation\nContact: Organ
+ izer contact in linked source
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rv-E139@rv-vendor-planner.local
+DTSTAMP:20261007T201432Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270124
+SUMMARY:Quartzsite Sports\, Vacation & RV Show
+LOCATION:Show grounds\, 700 S. Central Blvd\, Quartzsite\, AZ
+DESCRIPTION:Type: RV show / expo\nVendor fee: 10×10 indoor inline $1\,605
+  early / $1\,705 after Nov 1\; corner $1\,715 / $1\,815. Midway live-aboar
+ d $1\,740 / $1\,840. Installation bay $1\,295 / $1\,395. Separate non-sell
+ ing campsite $500 / $600. Card fee 3%.\nAttendance: Not published in sourc
+ es checked\nVendor status: 2027 exhibitor application available\nContact: 
+ info@quartzsitervshow.com\; 714-377-7940
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
