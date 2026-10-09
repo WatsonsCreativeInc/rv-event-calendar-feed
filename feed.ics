@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:RV Vendor Prospects (Selected)
 BEGIN:VEVENT
 UID:rv-E850@rv-vendor-planner.local
-DTSTAMP:20261009T024609Z
+DTSTAMP:20261009T025609Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270118
 SUMMARY:Tampa Campout 2027 (3rd Annual)
@@ -23,7 +23,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rv-E849@rv-vendor-planner.local
-DTSTAMP:20261009T024609Z
+DTSTAMP:20261009T025609Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270125
 SUMMARY:The Great Florida RV Getaway 2027
@@ -34,6 +34,20 @@ DESCRIPTION:Type: Community rally\nVendor fee: Not published\; vendor/spon
  r/sponsor page not yet published (site says it will post when available)\;
   recheck Nov-Dec 2026 and ask organizer — call first\nContact: https://g
  reatfloridarvgetaway.info/ (contact page)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rv-E257@rv-vendor-planner.local
+DTSTAMP:20261009T025609Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270903
+SUMMARY:2027 Grand Design Owners National Rally
+LOCATION:Elkhart County 4-H Fairgrounds\, Goshen\, IN
+DESCRIPTION:Type: Owner rally\nVendor fee: Not publicly published\; reques
+ t vendor quote\nAttendance: 2026 event advertised 1\,200+ Grand Design own
+ ers\; 2027 forecast not published\nVendor status: Vendor program establish
+ ed\; request 2027 application\nContact: info@gdrvnationalrally.com
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
